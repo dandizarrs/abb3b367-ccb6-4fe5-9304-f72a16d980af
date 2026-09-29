@@ -1,0 +1,4 @@
+1790705331s 1 https://dandiarchive.s3.amazonaws.com/zarr/abb3b367-ccb6-4fe5-9304-f72a16d980af/processing/transcriptomics/xenium_matches/plane/.zarray?versionId=cD_fQdcQ7WcMQVVVGMlqrT1bVp4qMJaz
+1790705331s 1 https://api.dandiarchive.org/api/zarr/abb3b367-ccb6-4fe5-9304-f72a16d980af/files?prefix=processing%2Ftranscriptomics%2Fxenium_matches%2Fplane%2F.zarray&download=true
+1790705331s 1 https://dandiarchive.s3.amazonaws.com/zarr/abb3b367-ccb6-4fe5-9304-f72a16d980af/processing/transcriptomics/xenium_matches/unique_cell_id/.zarray?versionId=DHFmo5je2Au06DoOdqbECYJYtwvBNgrg
+1790705331s 1 https://api.dandiarchive.org/api/zarr/abb3b367-ccb6-4fe5-9304-f72a16d980af/files?prefix=processing%2Ftranscriptomics%2Fxenium_matches%2Funique_cell_id%2F.zarray&download=true
